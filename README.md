@@ -13,3 +13,7 @@ This repository hosts a list of publications by the Center for Computational Bio
 
 6. Joseph Ssebuliba (PhD), Doreen Mbabazi Ssebuliba (PhD), Juliet Nakakawa Nsumba (PhD), Ronald Galiwango (PhD), Hassan Kayondo (PhD), Henry Kasumba (PhD), Martha Kirabo (MA), Agnes Namyalo (MSc), James Bumba (BSc), Letisha Najjemba (BSc), Bernard Molho Bwambale (BA), Vincent Arumadri (BSc), Agnes Kiragga (PhD) and John Kitayimbwa (PhD)., (2021, July 28). Experts predict when third wave will hit Uganda if SOPs are not adhered to. NewVision, p.26. Available online at: https://www.newvision.co.ug/articledetails/110014 or https://www.newvision.co.ug/articledetails/110273
 
+7. Kayondo, H. W., Ssekagiri, A., Nabakooza, G., Bbosa, N., Ssemwanga, D., Kaleebu, P., Mwalili, S., Mango, J. M., 
+Leigh Brown, A. J., Saenz, R. A., Galiwango, R., & Kitayimbwa, J. M. (2021). Employing phylogenetic tree shape 
+statistics to resolve the underlying host population structure. BMC Bioinformatics, 22(1), 546. 
+https://doi.org/10.1186/s12859-021-04465-1.
